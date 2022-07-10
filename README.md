@@ -7,7 +7,7 @@ How to write Readme.md: https://gist.github.com/Jekins/2bf2d0638163f1294637#Emph
 
 ## Hi there 👋
 
-I am Ivan, junior backend developer from Belarus. You can find my full resume [here](https://github.com/Ivanshka/Resume#readme).
+I am Ivan, junior Java developer from Belarus. You can find my full resume [here](https://github.com/Ivanshka/Resume#readme).
 
 [![Linkedin Badge](https://img.shields.io/badge/-Ivanshka-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ivanshka)
 <img src="https://komarev.com/ghpvc/?username=Ivanshka&color=brightgreen" alt=""/>
