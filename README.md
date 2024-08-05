@@ -7,7 +7,7 @@ How to write Readme.md: https://gist.github.com/Jekins/2bf2d0638163f1294637#Emph
 
 ## Hi there 👋
 
-I am Ivan, junior Java developer from Belarus. You can find my full resume [here](https://github.com/Ivanshka/Resume#readme).
+I am Ivan, Java backend developer from Belarus. You can find my full resume [here](https://github.com/Ivanshka/Resume#readme).
 
 [![Linkedin Badge](https://img.shields.io/badge/-Ivanshka-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ivanshka)
 <img src="https://komarev.com/ghpvc/?username=Ivanshka&color=brightgreen" alt=""/>
@@ -15,11 +15,12 @@ I am Ivan, junior Java developer from Belarus. You can find my full resume [here
 ## Technical expertise
 | Category | Skills |
 | ------ | ------ |
-| Programming Languages | Java, SQL |
-| Operating Systems | Windows, Linux |
-| Databases | H2, MySQL, MS SQL Server, Oracle DB |
-| Tools and Technologies | Java SE, Spring Boot, Spring Security, Spring Data, JPA, Hibernate, Liquibase, Intellij IDEA, Maven |
-| Other | Version control system: Git, GitHub, BitBucket |
+| Programming Languages | Java, SQL, a little Lua |
+| Operating Systems | Linux, Windows |
+| Relational databases | PostgreSQL, MySQL, Oracle DB |
+| Non-relational databases | CouchDB, a little Tarantool |
+| Tools and Technologies | Spring: Boot, Security, Data; JPA, Hibernate, Liquibase, Flyway; Swagger; Docker; HTTP, REST, gRPC, Protobuf |
+| Testing | Unit testing, integration testing; AssertJ, Mockito |
 
 ## Some stats
 <p align='center'>
